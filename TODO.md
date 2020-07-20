@@ -4,4 +4,4 @@
 * How to create a new clang-tidy checker
 * How to automate a build
 * How to deploy
-# How to use the clang python binding
+* How to use the clang python binding
